@@ -1,0 +1,5 @@
+*.so
+*.dll
+.idea
+*_test.go
+*.class
