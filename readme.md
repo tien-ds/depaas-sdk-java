@@ -1,11 +1,17 @@
 # Signature library
 
 ## 1. how to use in java
-#### copy java files
+#### 1. download prebuild library
+> You must ensure that the library is in your system path
+> 
+> `windows` eg. `$(JAVA_HOME)/bin)`
+> 
+> `linux` eg. `/usr/lib` or `usr/lib64` 
+
 ```shell
 git clone https://github.com/tien-ds/depaas-sdk-java
 ```
-#### write code
+#### 2. write code
 ```java
 public class Test {
     static {
